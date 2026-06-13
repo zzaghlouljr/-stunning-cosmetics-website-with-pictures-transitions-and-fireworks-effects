@@ -1,0 +1,2 @@
+# -stunning-cosmetics-website-with-pictures-transitions-and-fireworks-effects
+🎆 Fireworks animation that loops on the page 🖼️ Real Unsplash images for hero, products, and gallery 🎬 Smooth transitions on all cards, images, and buttons 🌸 Scrolling strip marquee animation 🛍️ Product cards with hover overlay effect 🖼️ Gallery with zoom hover effect 💬 Testimonials section 📩 Contact form with focus effect
